@@ -1,0 +1,52 @@
+#añadir{
+	margin-top: 100px;
+}
+#añadir h2{
+	text-align: center;
+	font-family: sans-serif;
+}
+
+#añadir .add-pedido{
+	margin-top: 50px;
+}
+#añadir .col-12, #añadir .col-6{
+	margin-bottom: 20px;
+}
+
+#añadir .add-btn{
+	text-align: center;
+	margin-top: 20px;
+}
+
+#añadir .add-btn button{
+	padding: 7px 26px;
+	color: #fff;
+	background: blue;
+	border: 1px blue solid;
+	border-radius: 5px;
+	outline: none;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+input:focus{
+	box-shadow: none !important;
+}
+
+#alerts{
+	text-align: center;
+	margin-top: 50px;
+	padding: 16px;
+	background: #2ecc71;
+	border-radius: 5px;
+}
+#alerts h1{
+	font-weight: bolder;
+	color: #000;
+}
+
+#lista{
+	margin-top: 70px;
+}
+#lista h2{
+	padding-bottom: 30px;
+}
